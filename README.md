@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="100"/>
 </div>
+<br>
+<div align="center">
+<h4> Мой телеграм: </h4>
+  <br/>
+  <a href="https://t.me/mugibes">
+  <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
+</a>
+</div>
