@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align="center">
-<h4> contact with me: </h4>
-  <br/>
   <a href="https://t.me/mugibes">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
