@@ -6,13 +6,13 @@
 <!--   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="250"/> -->
 <!-- </div> -->
 <br>
-<div align="center">
+<div>
   <p>Связаться со мной:</p>
   <a href="https://t.me/mugibes">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 </div>
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=BesaMugi&style=flat-square&color=blue" alt=""/>
 </div>
 
