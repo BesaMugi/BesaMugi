@@ -1,13 +1,13 @@
 ### Hi there 👋 My name is Beslan!
 
 - 🔭 I’m a Frontend Developer
-- 📫 How to reach me: mugiwarabesa@mail.ru
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="250"/>
-</div>
+<!-- <div id="header" align="center"> -->
+<!--   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="250"/> -->
+<!-- </div> -->
 <br>
 <div align="center">
+  <p>Связаться со мной:</p>
   <a href="https://t.me/mugibes">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
