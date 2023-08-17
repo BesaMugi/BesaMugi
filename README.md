@@ -2,9 +2,9 @@
 
 - 🔭 I’m a Frontend Developer
 
-<div id="header" align="center"> 
-  <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="250"/> 
- </div>
+<!-- <div id="header" align="center"> -->
+<!--   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="250"/> -->
+<!--  </div> -->
 <br>
 <div>
   <p>Связаться со мной:</p>
