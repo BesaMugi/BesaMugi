@@ -2,17 +2,16 @@
 
 - 🔭 I’m a Frontend Developer
 
-<!-- <div id="header" align="center"> -->
-<!--   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="250"/> -->
-<!--  </div> -->
+<div id="header" align="center"> 
+ <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="250"/> 
+</div> 
 <br>
-<div>
-  <p>Связаться со мной:</p>
+<div align="center">
   <a href="https://t.me/mugibes">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 </div>
-<div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=BesaMugi&style=flat-square&color=blue" alt=""/>
 </div>
 
