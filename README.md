@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Beslan!
 
-- 🔭 I’m a Full Stack Developer
+- 🔭 I’m a Frontend Developer
 - 📫 How to reach me: mugiwarabesa@mail.ru
 
 <div id="header" align="center">
