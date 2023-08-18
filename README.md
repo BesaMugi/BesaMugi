@@ -4,9 +4,6 @@
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BesaMugi&style=flat-square&color=blue" alt=""/>
-</div>
 
 <h1>Мой стек технологий, с которым я работал:</h1>
  <ul>
@@ -38,3 +35,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 </div>
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=BesaMugi&style=flat-square&color=blue" alt=""/>
+</div>
